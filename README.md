@@ -48,4 +48,4 @@ I'm Arianne (@perlechesanles), an Offensive Security Enthusiast who loves pushin
 
 ## 🌍 Let's Connect
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/perlechesanles-offsec/](https://www.linkedin.com/in/perlechesanles/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/perlechesanles/)
