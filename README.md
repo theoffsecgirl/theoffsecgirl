@@ -14,7 +14,7 @@
 
 I'm Arianne (@perlechesanles), an Offensive Security Enthusiast who loves pushing the boundaries of cybersecurity. My work focuses on building tools for web security, automating processes, and optimizing binary performance.
 
-## 💻� Projects
+## 💻 Projects
 
 - **[proBins](https://github.com/perlechesanles/proBins)**: Optimizing binaries for Linux systems.
 - **[vulnerableWebTester](https://github.com/perlechesanles/vulnerableWebTester)**: A Python script for scanning common web vulnerabilities.
