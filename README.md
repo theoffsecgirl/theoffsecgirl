@@ -12,7 +12,7 @@
 
 ## 🫣 About Me
 
-I'm Arianne (@perlechesanles), an Offensive Security Enthusiast who loves pushing the boundaries of cybersecurity. My work focuses on building tools for web security, automating processes, and optimizing binary performance.
+I'm Arianne (@theoffsecgirl), an Offensive Security Enthusiast who loves pushing the boundaries of cybersecurity. My work focuses on building tools for web security, automating processes, and optimizing binary performance.
 
 ## 💻 Projects
 
