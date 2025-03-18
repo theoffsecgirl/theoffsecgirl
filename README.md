@@ -1,5 +1,5 @@
-<p align="center" style="font-family: 'Courier New'; color: #00ff00;">
-  ⚠️ Security protocols: ACTIVE
+<p align="center" style="font-family: 'Courier New'; color: #ff2800;">
+  ⚠️ Security protocols: ACTIVE ⚠️
 </p>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Hack&size=18&duration=3000&pause=500&color=00FF00&width=400&lines=Red+Team+Toolsmith;Security+Automation;Vulnerability+Research" alt="Typing Animation">
