@@ -2,7 +2,7 @@
   ⚠️ Security protocols: ACTIVE ⚠️
 </p>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Hack&size=18&duration=3000&pause=500&color=00FF00&width=400&lines=Red+Team+Toolsmith;Security+Automation;Vulnerability+Research" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Hack&size=18&duration=3000&pause=500&color=00FF00&width=400&lines=Red+Team+;Security+Automation;Vulnerability+Research" alt="Typing Animation">
 </div>
 <p align="center">
   <a href="https://linkedin.com/in/theoffsecgirl">
