@@ -3,7 +3,7 @@
   <!-- AVATAR optimizado -->
   <div style="text-align: center; margin-bottom: 24px;">
     <img 
-      src="theoffsecgirl.png"
+      src="offsec-logo.png"
       alt="theoffsecgirl avatar"
       width="118"
       style="border-radius: 10px; display: inline-block;"
