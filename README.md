@@ -1,27 +1,57 @@
-<p align="center" style="font-family: 'Courier New'; color: #ff2800;">
-  ⚠️ Security protocols: ACTIVE ⚠️
-</p>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Hack&size=18&duration=3000&pause=500&color=00FF00&width=400&lines=Red+Team+;Security+Automation;Vulnerability+Research" alt="Typing Animation">
-</div>
-<p align="center">
-  <a href="https://linkedin.com/in/theoffsecgirl">
-    <img src="https://img.shields.io/badge/-LINKEDIN-00ff00?style=for-the-badge&logo=linkedin&logoColor=black">
-  </a>
-     
-  <a href="https://github.com/theoffsecgirl">
-    <img src="https://img.shields.io/badge/-GITHUB-00ff00?style=for-the-badge&logo=github&logoColor=black">
-  </a>
+<div style="font-family: Inter, sans-serif; max-width: 760px; margin: auto;">
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=theoffsecgirl&theme=dark&show_icons=true&bg_color=000000&title_color=00ff00&text_color=ffffff">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theoffsecgirl&theme=dark&background=000000&stroke=00ff00">
-</div>
+  <!-- AVATAR optimizado -->
+  <div style="text-align: center; margin-bottom: 24px;">
+    <img 
+      src="theoffsecgirl.png"
+      alt="theoffsecgirl avatar"
+      width="118"
+      style="border-radius: 10px; display: inline-block;"
+    />
+  </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theoffsecgirl&theme=react-dark&bg_color=000000&color=00ff00&line=00ff00&point=ffffff">
-</div>
+  <h1 style="margin-bottom: 0.4em; font-weight: 700;">
+    theoffsecgirl
+  </h1>
 
-<br> 🏆 Operation Logs: **NASA VDP Recognition** <br/>
-<div align="center" style="font-family: 'Courier New'; color: #00ff00; border: 1px solid #00ff00; padding: 15px; display: inline-block;">
+  <h2 style="margin-top: 1.4em; font-weight: 600;">Sobre mí</h2>
+  <p style="line-height: 1.6;">
+    Profesional de seguridad ofensiva y formadora técnica.
+    Trabajo en bug bounty, desarrollo herramientas, creo contenido académico
+    y enseño seguridad ofensiva con un enfoque claro, directo y sin artificios.
+  </p>
+
+  <h2 style="margin-top: 1.4em; font-weight: 600;">Qué hago</h2>
+  <ul style="line-height: 1.6;">
+    <li>Hacking ético y seguridad ofensiva aplicada</li>
+    <li>Reconocimiento y automatización</li>
+    <li>Desarrollo de herramientas y PoCs</li>
+    <li>Formación profesional en Northstar Academy</li>
+    <li>Diseño de laboratorios y contenido técnico</li>
+  </ul>
+
+  <h2 style="margin-top: 1.4em; font-weight: 600;">Northstar Academy</h2>
+  <p style="line-height: 1.6;">
+    Academia de ciberseguridad ofensiva centrada en claridad, rigor metodológico y práctica real.
+    Creo contenido didáctico y cursos profesionales con orientación técnica sólida.<br><br>
+    <strong><a href="https://www.northstaracademy.io" target="_blank">
+    www.northstaracademy.io</a></strong>
+  </p>
+
+  <h2 style="margin-top: 1.4em; font-weight: 600;">Áreas técnicas</h2>
+  <ul style="line-height: 1.6;">
+    <li>Python, Bash, PowerShell</li>
+    <li>Linux y macOS</li>
+    <li>Reconocimiento ofensivo y OSINT</li>
+    <li>Auditoría web y automatización</li>
+    <li>Nmap, ffuf, nuclei, Burp Suite</li>
+  </ul>
+
+  <h2 style="margin-top: 1.4em; font-weight: 600;">Contacto</h2>
+  <ul style="line-height: 1.6;">
+    <li>Web personal: <a href="https://www.theoffsecgirl.com" target="_blank">www.theoffsecgirl.com</a></li>
+    <li>Academia: <a href="https://www.northstaracademy.io" target="_blank">www.northstaracademy.io</a></li>
+    <li>LinkedIn: <a href="https://www.linkedin.com/in/theoffsecgirl" target="_blank">linkedin.com/in/theoffsecgirl</a></li>
+  </ul>
+
 </div>
