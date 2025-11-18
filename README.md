@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="theoffsecgirl.png" alt="theoffsecgirl avatar" width="118" style="border-radius: 100px;">
+  <img src="theoffsecgirl.png" alt="theoffsecgirl avatar" width="118" style="border-radius: 10px;">
 </p>
 
 <p align="center">
