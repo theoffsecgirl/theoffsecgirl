@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="offsec-logo.png" alt="theoffsecgirl avatar" width="118" style="border-radius: 10px;">
+  <img src="offsec-logo-horizontal.png" alt="theoffsecgirl avatar" width="118" style="border-radius: 10px;">
 </p>
-
-<h1 align="center">theoffsecgirl</h1>
 
 <p align="center">
   Seguridad ofensiva • Hacking • Desarrollo de herramientas • Formación profesional
