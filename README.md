@@ -1,5 +1,4 @@
 
-````md
 <div align="center">
 
 # theoffsecgirl
@@ -88,4 +87,3 @@ My focus is practical: find real issues, understand root causes, build useful wo
 `purple mindset · offensive thinking · practical security`
 
 </div>
-```
