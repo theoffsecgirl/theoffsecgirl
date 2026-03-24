@@ -12,8 +12,8 @@
   <a href="mailto:info@theoffsecgirl.com">
     <img src="https://img.shields.io/badge/Email-info@theoffsecgirl.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://github.com/theoffsecgirl">
-    <img src="https://img.shields.io/badge/GitHub-theoffsecgirl-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://theoffsecgirl.com">
+    <img src="https://img.shields.io/badge/Web-theoffsecgirl.com-9E4AFF?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Web">
   </a>
 </p>
 
@@ -30,16 +30,6 @@ My focus is practical: find real issues, understand root causes, build useful wo
 
 ---
 
-## Current focus
-
-- Offensive Security
-- Vulnerability Research
-- Bug Bounty
-- Tooling & Automation
-- Technical Education
-
----
-
 ## What I do
 
 ```text
@@ -48,7 +38,20 @@ My focus is practical: find real issues, understand root causes, build useful wo
 [+] Building tools and workflows
 [+] Teaching cybersecurity
 [+] Turning complexity into practical methodology
-````
+```
+
+---
+
+## Tools
+
+| Repo | Descripción |
+|------|-------------|
+| [🕷️ tool-webflow](https://github.com/theoffsecgirl/tool-webflow) | Web scanner: crawling, XSS, SQLi, headers, WAF bypass |
+| [📍 tool-lfdscanner](https://github.com/theoffsecgirl/tool-lfdscanner) | Local File Disclosure & Directory Traversal |
+| [🔄 tool-takeovflow](https://github.com/theoffsecgirl/tool-takeovflow) | Subdomain takeover scanner |
+| [🦷 tool-bluedeath](https://github.com/theoffsecgirl/tool-bluedeath) | Auditoría ofensiva Bluetooth BR/EDR |
+| [🔒 poc-cors-toolkit](https://github.com/theoffsecgirl/poc-cors-toolkit) | PoC toolkit para auditar configuraciones CORS |
+| [🖥️ dotfiles](https://github.com/theoffsecgirl/dotfiles) | Entorno macOS / Linux para bug bounty |
 
 ---
 
@@ -68,9 +71,9 @@ My focus is practical: find real issues, understand root causes, build useful wo
 
 ## Contact
 
+* **Web:** [theoffsecgirl.com](https://theoffsecgirl.com)
 * **LinkedIn:** [@theoffsecgirl](https://www.linkedin.com/in/theoffsecgirl/)
 * **Email:** [info@theoffsecgirl.com](mailto:info@theoffsecgirl.com)
-* **GitHub:** [github.com/theoffsecgirl](https://github.com/theoffsecgirl)
 
 ---
 
