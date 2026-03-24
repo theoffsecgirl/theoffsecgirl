@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # theoffsecgirl
@@ -44,13 +43,13 @@ My focus is practical: find real issues, understand root causes, build useful wo
 
 ## Tools
 
-| Repo | Descripción |
+| Repo | Description |
 |------|-------------|
-| [🕷️ tool-webflow](https://github.com/theoffsecgirl/tool-webflow) | Web scanner: crawling, XSS, SQLi, headers, WAF bypass |
-| [📍 tool-lfdscanner](https://github.com/theoffsecgirl/tool-lfdscanner) | Local File Disclosure & Directory Traversal |
-| [🔄 tool-takeovflow](https://github.com/theoffsecgirl/tool-takeovflow) | Subdomain takeover scanner |
-| [🦷 tool-bluedeath](https://github.com/theoffsecgirl/tool-bluedeath) | Auditoría ofensiva Bluetooth BR/EDR |
-| [🔒 poc-cors-toolkit](https://github.com/theoffsecgirl/poc-cors-toolkit) | PoC toolkit para auditar configuraciones CORS |
+| [🕷️ webxray](https://github.com/theoffsecgirl/webxray) | Web scanner: crawling, XSS, SQLi, headers, WAF bypass |
+| [📍 pathraider](https://github.com/theoffsecgirl/pathraider) | Local File Disclosure & Directory Traversal |
+| [🔄 takeovflow](https://github.com/theoffsecgirl/takeovflow) | Subdomain takeover scanner |
+| [🦷 bluedeath](https://github.com/theoffsecgirl/bluedeath) | Auditoría ofensiva Bluetooth BR/EDR |
+| [🔒 corskit](https://github.com/theoffsecgirl/corskit) | PoC toolkit para auditar configuraciones CORS |
 | [🖥️ dotfiles](https://github.com/theoffsecgirl/dotfiles) | Entorno macOS / Linux para bug bounty |
 
 ---
