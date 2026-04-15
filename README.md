@@ -2,7 +2,7 @@
 
 # theoffsecgirl
 
-### 🦋 Security Researcher · Bug Hunter · Tool Developer · Instructor
+### 🦸 Security Researcher · Bug Hunter · Tool Developer · Instructor
 
 <p>
   <a href="https://www.linkedin.com/in/theoffsecgirl/">
@@ -46,11 +46,12 @@ My focus is practical: find real issues, understand root causes, build useful wo
 | Repo | Description |
 |------|-------------|
 | [🕷️ webxray](https://github.com/theoffsecgirl/webxray) | Web scanner: crawling, XSS, SQLi, headers, WAF bypass |
-| [📍 pathraider](https://github.com/theoffsecgirl/pathraider) | Local File Disclosure & Directory Traversal |
-| [🔄 takeovflow](https://github.com/theoffsecgirl/takeovflow) | Subdomain takeover scanner |
-| [🦷 bluedeath](https://github.com/theoffsecgirl/bluedeath) | Auditoría ofensiva Bluetooth BR/EDR |
-| [🔒 corskit](https://github.com/theoffsecgirl/corskit) | PoC toolkit para auditar configuraciones CORS |
-| [🖥️ dotfiles](https://github.com/theoffsecgirl/dotfiles) | Entorno macOS / Linux para bug bounty |
+| [📍 pathraider](https://github.com/theoffsecgirl/pathraider) | Local File Disclosure & Directory Traversal scanner |
+| [🔄 takeovflow](https://github.com/theoffsecgirl/takeovflow) | Advanced subdomain takeover scanner |
+| [🦷 bluedeath](https://github.com/theoffsecgirl/bluedeath) | Offensive Bluetooth BR/EDR auditing tool for Linux |
+| [🔒 corskit](https://github.com/theoffsecgirl/corskit) | CORS misconfiguration tester — offensive web tool |
+| [🤖 bb-copilot](https://github.com/theoffsecgirl/bb-copilot) | AI-powered bug bounty assistant — methodology vault + CLI |
+| [🖥️ dotfiles](https://github.com/theoffsecgirl/dotfiles) | macOS / Linux environment for bug bounty and pentesting |
 
 ---
 
