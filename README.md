@@ -2,7 +2,7 @@
 
 # theoffsecgirl
 
-### 🦸 Security Researcher · Bug Hunter · Tool Developer · Instructor
+### 🕷️ Security Researcher · Bug Hunter · Tool Developer · Instructor
 
 <p>
   <a href="https://www.linkedin.com/in/theoffsecgirl/">
@@ -12,11 +12,13 @@
     <img src="https://img.shields.io/badge/Email-info@theoffsecgirl.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://theoffsecgirl.com">
-    <img src="https://img.shields.io/badge/Web-theoffsecgirl.com-9E4AFF?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Web">
+    <img src="https://img.shields.io/badge/Web-theoffsecgirl.com-FF2D78?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Web">
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9E4AFF&center=true&vCenter=true&width=900&lines=Offensive+Security;Bug+Bounty;Vulnerability+Research;Tooling+%26+Automation;Technical+Training" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF2D78&center=true&vCenter=true&width=900&lines=Offensive+Security;Bug+Bounty;Vulnerability+Research;Tooling+%26+Automation;Technical+Training" alt="Typing SVG" />
+
+### *Pink lines. Red team.*
 
 </div>
 
@@ -58,13 +60,13 @@ My focus is practical: find real issues, understand root causes, build useful wo
 ## Tech / Areas
 
 <p>
-  <img src="https://img.shields.io/badge/Web%20Security-111111?style=flat-square&logo=hackthebox&logoColor=9E4AFF" alt="Web Security">
-  <img src="https://img.shields.io/badge/Bug%20Bounty-111111?style=flat-square&logo=bugcrowd&logoColor=9E4AFF" alt="Bug Bounty">
-  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=9E4AFF" alt="Python">
-  <img src="https://img.shields.io/badge/Bash-111111?style=flat-square&logo=gnubash&logoColor=9E4AFF" alt="Bash">
-  <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=9E4AFF" alt="Linux">
-  <img src="https://img.shields.io/badge/Automation-111111?style=flat-square&logo=githubactions&logoColor=9E4AFF" alt="Automation">
-  <img src="https://img.shields.io/badge/Teaching-111111?style=flat-square&logo=gitbook&logoColor=9E4AFF" alt="Teaching">
+  <img src="https://img.shields.io/badge/Web%20Security-111111?style=flat-square&logo=hackthebox&logoColor=FF2D78" alt="Web Security">
+  <img src="https://img.shields.io/badge/Bug%20Bounty-111111?style=flat-square&logo=bugcrowd&logoColor=FF2D78" alt="Bug Bounty">
+  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=FF2D78" alt="Python">
+  <img src="https://img.shields.io/badge/Bash-111111?style=flat-square&logo=gnubash&logoColor=FF2D78" alt="Bash">
+  <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=FF2D78" alt="Linux">
+  <img src="https://img.shields.io/badge/Automation-111111?style=flat-square&logo=githubactions&logoColor=FF2D78" alt="Automation">
+  <img src="https://img.shields.io/badge/Teaching-111111?style=flat-square&logo=gitbook&logoColor=FF2D78" alt="Teaching">
 </p>
 
 ---
@@ -87,6 +89,6 @@ My focus is practical: find real issues, understand root causes, build useful wo
 
 <div align="center">
 
-`purple mindset · offensive thinking · practical security`
+`pink lines · red team · practical security`
 
 </div>
