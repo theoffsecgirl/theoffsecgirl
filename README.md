@@ -26,7 +26,7 @@
 
 ## About me
 
-I work across offensive security, vulnerability research, bug bounty, tooling, and technical training.  
+I work across offensive security, vulnerability research, bug bounty, tooling, and technical training.
 My focus is practical: find real issues, understand root causes, build useful workflows, and teach clearly.
 
 ---
@@ -48,11 +48,10 @@ My focus is practical: find real issues, understand root causes, build useful wo
 | Repo | Description |
 |------|-------------|
 | [🕷️ webxray](https://github.com/theoffsecgirl/webxray) | Web scanner: crawling, XSS, SQLi, headers, WAF bypass |
-| [📍 pathraider](https://github.com/theoffsecgirl/pathraider) | Local File Disclosure & Directory Traversal scanner |
+| [🧭 reconmind](https://github.com/theoffsecgirl/reconmind) | Passive recon coverage index for bug bounty |
 | [🔄 takeovflow](https://github.com/theoffsecgirl/takeovflow) | Advanced subdomain takeover scanner |
-| [🦷 bluedeath](https://github.com/theoffsecgirl/bluedeath) | Offensive Bluetooth BR/EDR auditing tool for Linux |
 | [🔒 corskit](https://github.com/theoffsecgirl/corskit) | CORS misconfiguration tester — offensive web tool |
-| [🤖 bb-copilot](https://github.com/theoffsecgirl/bb-copilot) | AI-powered bug bounty assistant — methodology vault + CLI |
+| [🧩 findings-hub](https://github.com/theoffsecgirl/findings-hub) | Live output analyzer — flags likely vulnerable findings from any tool |
 | [🖥️ dotfiles](https://github.com/theoffsecgirl/dotfiles) | macOS / Linux environment for bug bounty and pentesting |
 
 ---
